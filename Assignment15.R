@@ -1,0 +1,6 @@
+
+1. Use the below given data set
+DataSet
+a. Predict the no of comments in next H hrs
+b. Use regression technique
+c. Report the training accuracy and test accuracy
